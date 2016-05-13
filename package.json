@@ -1,0 +1,13 @@
+{
+  "name": "SendinBlue_API",
+  "version": "1.0.0",
+  "description": "SendinBlue API",
+  "main": "V2.0/mailin.js",
+  "author": "jhd",
+
+  "dependencies": {
+    "crypto": "0.0.3",
+    "restler": "3.4.0"
+  }
+
+}
